@@ -1,1 +1,3 @@
 # Neochat
+
+NeoFi assignment project
