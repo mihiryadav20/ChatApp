@@ -16,5 +16,5 @@ Couldn't come up with:
 1) Getting online users
 2) Friend recommendations
 
-![image](https://github.com/mihiryadav20/ChatApp/assets/80512042/bed28a33-241e-4920-a250-ef823b996cf9)
+
 
